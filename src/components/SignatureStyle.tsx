@@ -16,7 +16,7 @@ const SignatureStyle = () => {
             style={{ top: '30%', left: '10%', width: '30%', height: '35%', zIndex: 3 }}
           >
             <img
-              src="/src/assets/signature-style.jpg"
+              src="/src/assets/signature.jpg"
               alt="Luis performing in a vibrant venue"
               className="w-full h-full object-cover rounded-lg shadow-2xl"
               loading="lazy"
@@ -27,7 +27,7 @@ const SignatureStyle = () => {
             style={{ top: '20%', left: '30%', right: '0', width: '55%', height: '65%', zIndex: 2 }}
           >
             <img
-              src="/src/assets/signature-style-02.jpg"
+              src="/src/assets/signature-2.jpg"
               alt="Luis captivating the audience"
               className="w-full h-full object-cover rounded-lg shadow-2xl"
               loading="lazy"
@@ -38,7 +38,7 @@ const SignatureStyle = () => {
             style={{ top: '5%', right: '5%', width: '35%', height: '40%', zIndex: 4 }}
           >
             <img
-              src="/src/assets/signature-style-3.jpg"
+              src="/src/assets/signature-3.jpg"
               alt="Luis performing magic tricks"
               className="w-full h-full object-cover rounded-lg shadow-2xl"
               loading="lazy"
@@ -51,7 +51,7 @@ const SignatureStyle = () => {
           {/* First image - top left */}
           <div className="absolute" style={{ top: '5%', right: '0%', width: '45%', zIndex: 3 }}>
             <img
-              src="/src/assets/signature-style.jpg"
+              src="/src/assets/signature.jpg"
               alt="Luis performing in a vibrant venue"
               className="w-full h-auto object-cover rounded-2xl shadow-xl aspect-[4/3]"
               loading="lazy"
@@ -61,7 +61,7 @@ const SignatureStyle = () => {
           {/* Second image - center, larger */}
           <div className="absolute" style={{ top: '30%', left: '50%', transform: 'translateX(-50%)', width: '80%', zIndex: 2 }}>
             <img
-              src="/src/assets/signature-style-02.jpg"
+              src="/src/assets/signature-2.jpg"
               alt="Luis captivating the audience"
               className="w-full h-auto object-cover rounded-2xl shadow-xl aspect-[4/3]"
               loading="lazy"
@@ -71,7 +71,7 @@ const SignatureStyle = () => {
           {/* Third image - bottom right */}
           <div className="absolute" style={{ top: '70%', left: '5%', width: '45%', zIndex: 4 }}>
             <img
-              src="/src/assets/signature-style-3.jpg"
+              src="/src/assets/signature-3.jpg"
               alt="Luis performing magic tricks"
               className="w-full h-auto object-cover rounded-2xl shadow-xl aspect-[4/3]"
               loading="lazy"
