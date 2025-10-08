@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import audienceImage from "@/assets/audience-grayscale.jpg";
+import audienceImage from "@/assets/audience-grayscalee.jpg";
 
 const About = () => {
   const [scale, setScale] = useState(1);

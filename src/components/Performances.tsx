@@ -1,4 +1,4 @@
-import stageShowImage from "@/assets/stage-show.jpg";
+import stageShowImage from "@/assets/stage-show-1.jpg";
 import closeupMagicImage from "@/assets/closeup-magic.jpg";
 import eventHostingImage from "@/assets/event-hosting.jpg";
 const Performances = () => {

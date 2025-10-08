@@ -27,7 +27,7 @@ const SignatureStyle = () => {
             style={{ top: '20%', left: '30%', right: '0', width: '55%', height: '65%', zIndex: 2 }}
           >
             <img
-              src="/src/assets/signature-style-2.jpg"
+              src="/src/assets/signature-style-02.jpg"
               alt="Luis captivating the audience"
               className="w-full h-full object-cover rounded-lg shadow-2xl"
               loading="lazy"
@@ -61,7 +61,7 @@ const SignatureStyle = () => {
           {/* Second image - center, larger */}
           <div className="absolute" style={{ top: '30%', left: '50%', transform: 'translateX(-50%)', width: '80%', zIndex: 2 }}>
             <img
-              src="/src/assets/signature-style-2.jpg"
+              src="/src/assets/signature-style-02.jpg"
               alt="Luis captivating the audience"
               className="w-full h-auto object-cover rounded-2xl shadow-xl aspect-[4/3]"
               loading="lazy"
