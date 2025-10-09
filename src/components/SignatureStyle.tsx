@@ -16,7 +16,7 @@ const SignatureStyle = () => {
             style={{ top: '30%', left: '10%', width: '30%', height: '35%', zIndex: 3 }}
           >
             <img
-              src="/src/assets/signature.jpg"
+              src="/signature.jpg"
               alt="Luis performing in a vibrant venue"
               className="w-full h-full object-cover rounded-lg shadow-2xl"
               loading="lazy"
@@ -27,7 +27,7 @@ const SignatureStyle = () => {
             style={{ top: '20%', left: '30%', right: '0', width: '55%', height: '65%', zIndex: 2 }}
           >
             <img
-              src="/src/assets/signature-2.jpg"
+              src="/signature-2.jpg"
               alt="Luis captivating the audience"
               className="w-full h-full object-cover rounded-lg shadow-2xl"
               loading="lazy"
@@ -38,7 +38,7 @@ const SignatureStyle = () => {
             style={{ top: '5%', right: '5%', width: '35%', height: '40%', zIndex: 4 }}
           >
             <img
-              src="/src/assets/signature-3.jpg"
+              src="/signature-3.jpg"
               alt="Luis performing magic tricks"
               className="w-full h-full object-cover rounded-lg shadow-2xl"
               loading="lazy"
