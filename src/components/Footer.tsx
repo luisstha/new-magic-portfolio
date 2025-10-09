@@ -17,11 +17,11 @@ const Footer = () => {
         </div>
         
         <div className="flex flex-col md:flex-row gap-3 md:gap-4 items-center font-raleway text-foreground text-sm md:text-base">
-          <a href="tel:+1234567890" className="flex items-center gap-2 hover:text-accent transition-colors py-2 min-h-[48px]">
+          <a href="tel:+9779869375735" className="flex items-center gap-2 hover:text-accent transition-colors py-2 min-h-[48px]">
             <Phone className="w-5 h-5" />
             <span>+977 9869375735</span>
           </a>
-          <a href="mailto:luis@example.com" className="flex items-center gap-2 hover:text-accent transition-colors py-2 min-h-[48px]">
+          <a href="mailto:magicbyluis@gmail.com" className="flex items-center gap-2 hover:text-accent transition-colors py-2 min-h-[48px]">
             <Mail className="w-5 h-5" />
             <span>magicbyluis@gmail.com</span>
           </a>
