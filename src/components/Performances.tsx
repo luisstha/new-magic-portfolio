@@ -26,11 +26,7 @@ const Performances = () => {
           <div className="text-left order-2 md:order-1">
             <h4 className="font-sansita font-bold text-foreground mb-4 md:mb-6 text-center text-2xl md:text-3xl lg:text-4xl">Stage Show</h4>
             <p className="font-raleway text-foreground/80 text-center text-base md:text-lg lg:text-xl leading-relaxed">
-              Luis's stage show is a captivating blend of skill and mystery, with a 
-              high degree of audience interaction. He invites countless audience members 
-              to participate both from their seats and on stage. His performances, which 
-              combine a range of skills with an air of mystery, are suitable for groups 
-              of 15 to 1,000 people and can last anywhere from 10 minutes to an hour.
+              Luis’s stage show delivers an unforgettable blend of magic, mentalism, and comedy—wrapped in an atmosphere of wonder and entertainment. Every performance is highly interactive, with audience members becoming an integral part of the experience, whether from their seats or live on stage. Perfectly adaptable for groups of 15 to 500 guests, Luis tailors each show to suit the occasion, offering anything from a fast-paced 10-minute feature to a full hour of jaw-dropping entertainment that leaves audiences amazed.
             </p>
           </div>
           <div className="rounded-lg md:rounded-2xl overflow-hidden shadow-medium order-1 md:order-2">
