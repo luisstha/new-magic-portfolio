@@ -132,7 +132,7 @@ ${formData.message}
           <form onSubmit={handleSubmit} className="space-y-4 md:space-y-6 mx-0 order-2 md:order-1">
             <div>
               <label className="block text-sm font-medium text-foreground mb-2">
-                Name (requiredd)
+                Name (required)
               </label>
               <div className="grid grid-cols-2 gap-4">
                 <div>
