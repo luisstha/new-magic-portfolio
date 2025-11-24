@@ -31,7 +31,7 @@ const Testimonial = () => {
             <iframe 
               width="100%" 
               height="100%" 
-              src="https://www.youtube.com/embed/eGU9cS94efg" 
+              src="https://youtube.com/shorts/EC61aoVQ6fk?si=cCZfmlJbwNR2eyTM" 
               title="Luis Shrestha Performance"
               frameBorder="0" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
