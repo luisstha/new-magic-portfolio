@@ -5,8 +5,8 @@ const SignatureStyle = () => {
         <p className="font-raleway text-foreground/80 mb-8 md:mb-16 text-center mx-auto max-w-4xl text-lg md:text-xl lg:text-2xl leading-relaxed">
           Luis's signature style blends masterful sleight of hand, magic, mentalism, 
           improv comedy, and dynamic audience interaction into a captivating theatrical 
-          experience. His performances are unpredictable, funny, and packed with 
-          hard-hitting moments.
+          experience. His performances are <strong>unpredictable</strong>, <strong>funny</strong>, and packed with  
+          <strong> hard-hitting moments</strong>
         </p>
         
         {/* Desktop: Overlapping images */}
